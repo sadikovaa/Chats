@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chats</string>
+    <string name="chats_title">Чаты</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="load_older">Более ранние сообщения</string>
+    <string name="image_message">Изображение</string>
+</resources>
